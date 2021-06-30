@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3270dea-9d80-41a1-83a5-3f7d8d7a64c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/limits-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625025595575</updated>
-      <workItem from="1625025597952" duration="105000" />
+      <workItem from="1625025597952" duration="548000" />
     </task>
     <servers />
   </component>
